@@ -1,0 +1,2 @@
+Django>=5.0,<5.1
+#non capisco come mai non me lo faceva installare utilizzando questo file nel terminale, va beh pace
